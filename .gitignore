@@ -1,0 +1,7 @@
+pychache/
+*.pyc
+db.sqlite3
+.idea
+staticfiles
+../media
+venv
